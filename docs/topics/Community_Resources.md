@@ -49,6 +49,7 @@ Many of these libraries are represented in the [unofficial, community-driven Dis
 | [AckCord](https://github.com/Katrix/AckCord)                 | Scala      |
 | [Sword](https://github.com/Azoy/Sword)                       | Swift      |
 | [Detritus](https://github.com/detritusjs/client)             | TypeScript |
+| [Discord.dn](https://github.com/discorddn/discord.dn)        | TypeScript |
 | [discordeno](https://github.com/discordeno/discordeno)       | TypeScript |
 | [Harmony](https://github.com/harmonyland/harmony)            | TypeScript |
 
